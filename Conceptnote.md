@@ -34,18 +34,19 @@ This internship is designed to help learners master full-stack development with 
 - Provide structured, self-paced learning through the ViBe platform
 - Build strong foundational and advanced skills in MERN stack development
 - Enable participants to master TypeScript, React, Express.js, and MongoDB
-- Offer optional case studies for deeper learning and practice
+- Provide hands-on case studies for practical application of concepts
+- Guide participants through building real-world projects
 - Identify and support top performers with recommendations and internship opportunities  
 
 ---
 
 ## Program Structure
 
-The internship program includes structured learning with the following components:
+The internship program consists of **three required components** that all participants must complete:
 
 ---
 
-### Core Learning: ViBe Platform (Required)
+### 1. Core Learning: ViBe Training (Required)
 
 **Purpose:** Master full-stack development with the MERN stack
 
@@ -66,9 +67,9 @@ The internship program includes structured learning with the following component
 
 ---
 
-### Supplementary Learning: Case Studies (Optional)
+### 2. Advanced Learning: Case Studies (Required)
 
-**Purpose:** Extra knowledge and hands-on practice
+**Purpose:** Apply concepts through hands-on practice
 
 **What's Included:**
 - Documentation-based lessons organized by technology
@@ -76,7 +77,21 @@ The internship program includes structured learning with the following component
 - Code examples and best practices
 - Practical implementation tasks
 
-**Note:** Case studies are **not required** for program completion. They are provided as optional resources for participants who want deeper understanding and additional practice.
+**Completion Requirement:** Successfully complete all case studies that reinforce ViBe training concepts
+
+---
+
+### 3. Practical Learning: Projects (Required)
+
+**Purpose:** Build comprehensive portfolio-worthy applications
+
+**What's Included:**
+- Real-world project assignments
+- Application of all MERN stack concepts
+- Guided development under VLED Lab mentorship
+- Portfolio development for career advancement
+
+**Completion Requirement:** Build and deliver required projects demonstrating mastery of the MERN stack
 
 ---
 
@@ -85,11 +100,7 @@ The internship program includes structured learning with the following component
 **For Participants Who Excel:**
 - Recommendations from Prof. Sudarshan Iyengar and VLED Lab teaching team
 - Internship opportunities with VLED Lab
-- Potential involvement in real-world projects
-
-**Optional Peer Endorsements:**
-- Participants who complete case studies may participate in peer evaluations
-- Endorsements validate additional learning beyond core requirements  
+- Potential involvement in advanced real-world projects  
 
 ---
 
@@ -109,10 +120,8 @@ Mentorship ensures clarity, consistency, and effective learning progression.
 - Complete **all modules on the ViBe platform**
 - This includes prerequisite modules and full-stack development modules
 - Progress is automatically tracked on the ViBe platform
-
-**Optional Activities:**
-- Case study completion (for extra learning)
-- Peer endorsements (for additional recognition)
+- **Complete all case studies** that apply ViBe training concepts
+- **Build and deliver required projects** demonstrating MERN stack mastery
 
 ---
 
@@ -134,20 +143,19 @@ Mentorship ensures clarity, consistency, and effective learning progression.
 
 **Important Notes:**
 - **No stipend is provided** for this program
-- **No mandatory projects required** - focus is on ViBe course completion
-- Case studies are purely optional for additional learning
+- All three components (ViBe Training, Case Studies, and Projects) are required
 - Opportunities are based on demonstrated performance and skill mastery  
 
 ---
 
 ## Conclusion
 
-**Pinternship** is a comprehensive full-stack development program focused on mastering the MERN stack through the ViBe platform.
+**Pinternship** is a comprehensive full-stack development program focused on mastering the MERN stack through three required components: ViBe Training, Case Studies, and Projects.
 
 **What Makes This Program Unique:**
-- Structured learning curriculum
-- Comprehensive coverage of the ViBe platform
-- Optional case studies for deeper learning
+- Structured learning curriculum through ViBe platform
+- Hands-on case studies for practical application
+- Real-world project development
 - Mentorship and support throughout the journey
 - Opportunities for top performers to receive recommendations and internships
 

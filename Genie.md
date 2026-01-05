@@ -11,13 +11,15 @@ order: 3
   }
 </style>
 
+
+Welcome to Pinternship. This is about learning at your own pace and building real skills. Here's what you need to know.
+
+---
+
 ### **Pinternship Specifications**
 
 Duration is 2 months with a possible 15-day extension based on your case or issue. The mode is online only with a flexible learning schedule, but there are milestones you need to achieve to stay in the course. You need a desktop or laptop, mobile phone doesn't work.
 
----
-
-Welcome to Pinternship. This is about learning at your own pace and building real skills. Here's what you need to know.
 
 ---
 
@@ -29,23 +31,23 @@ You'll get an invite link via email. Click it, sign in with your Google account,
 
 ### **The Three Phases**
 
-Pinternship has three phases. You move through them at your speed.
+Pinternship has three learning tracks. You progress through them at your own pace.
 
-**Phase 1: ViBe Learning**
+**Core Learning: ViBe Learning**
 
-Watch all the ViBe videos on MongoDB, Express, React, Node.js, and TypeScript. Watch them thoroughly, take your time, remember the concepts. When you finish all of them, Phase 1 is done and you move to Phase 2.
+Watch all the ViBe videos on MongoDB, Express, React, Node.js, and TypeScript. Watch them thoroughly, take your time, and understand the concepts. Once you complete all the videos, Core Learning is finished, and you move to Advanced Learning.
 
-**Phase 2: Case Studies**
+**Advanced Learning: Case Studies**
 
-Case studies are created to help you understand the topics more deeply and you can try understanding the case studies and then can try coding the solution for particular case study. You'll get stuck which is a normal thing, do not panic, ask on cliq, revisit the videos and discuss with other's.
+Case studies are designed to help you understand the topics more deeply. Try to understand each case study first, and then attempt to code a solution for it. Getting stuck is normal, so do not panic. Ask questions on Cliq, revisit the videos, and discuss with others.
 
-**Phase 3: Real Projects**
+**Practical Learning: Projects**
 
-After finishing ViBe and case studies, you'll contribute to actual open-source projects that are actually transforming the education. Work with our developers, that guide you to develop the real applications. Understand the features requests, take one at a time as a challenge for yourself and try adding new feature to the specific project. 
+After completing ViBe learning and case studies, you will contribute to real open-source projects that are actively transforming education. You will work with our developers, who will guide you in building real applications. Understand the feature requests, take them one at a time as challenges, and try adding new features to the respective projects.
 
 ---
 
-**Need help?** Email: internship-support@vicharanashala.zohodesk.in (9 AM - 9 PM)
+**Need help?** Email: pinternship-support@vicharanashala.zohodesk.in (9 AM - 9 PM)
 
 **Have questions?** Join #Pinternship on Cliq.
 
